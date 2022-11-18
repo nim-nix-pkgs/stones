@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "devel",
-        "lastModified": 1667334827,
-        "narHash": "sha256-JiFeDPHdV1UEu1UcY3qyXiDxCjs85EEnOM25OxOGars=",
+        "lastModified": 1668749081,
+        "narHash": "sha256-UnShwzs3xT+wGxwLZ1hYQ+ZyQDaEIAgfRgtxfaMKsLs=",
         "owner": "nim-nix-pkgs",
         "repo": "stones",
-        "rev": "d9aeb6ff97d08454d77711466fed0b708b3485c4",
+        "rev": "d9bfbcd948a7cbc2a815ca7207c39f9366361783",
         "type": "github"
       },
       "original": {
